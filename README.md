@@ -1,7 +1,7 @@
 # Ecommerce Website
 
 
-![capture1](https://github.com/user-attachments/assets/5ea0b569-daaa-48ca-b697-03c7e285d5e6)
+![Capture5](https://github.com/user-attachments/assets/9ca14c7f-cff7-486e-a122-8ea52efcfc42)
 
 
 ![Capture2](https://github.com/user-attachments/assets/4fa0e5c4-caf8-4f39-b8ff-fe05ebdf7001)
